@@ -13,6 +13,6 @@ Course Project for ECE763
 
 ## Project
 
-- Project1[[Description](homework/03/)] [[Code](docs/samples/sample_submission/)]
-- Project2
-- Final Project[[Code](https://github.com/YChen239/OctConv-TFKeras)]
+- [Project1](project01)
+- [Project2](project2)
+- [Final Project](https://github.com/YChen239/OctConv-TFKeras)
